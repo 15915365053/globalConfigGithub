@@ -1,2 +1,0 @@
-# globalConfigGithub
-globalConfigGithub
